@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-05-12 17:00-0700\n"
+"POT-Creation-Date: 2021-06-01 16:15-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
 
-#: tool/template-calculator.html:24 tool/template-home.html:109
+#: tool/template-base.html:87
+msgid ""
+"Fund your XRPL project with a developer grant. Learn more at <a "
+"href=\"https://xrplgrants.org/?utm_medium=referral&utm_source=xrpl&utm_campaign=banner&utm_content"
+"=learn-more\">XRPLGrants.org</a>"
+msgstr ""
+
+#: tool/template-calculator.html:24 tool/template-home.html:110
 msgid "Sustainability"
 msgstr ""
 
-#: tool/template-calculator.html:26 tool/template-home.html:111
+#: tool/template-calculator.html:26 tool/template-home.html:112
 msgid "Sustainability icon"
 msgstr ""
 
@@ -529,35 +536,35 @@ msgstr ""
 msgid "Edit"
 msgstr ""
 
-#: tool/template-home.html:22
+#: tool/template-home.html:23
 msgid "Scroll Down"
 msgstr ""
 
-#: tool/template-home.html:25
+#: tool/template-home.html:26
 msgid "XRP: The Best Digital Asset for Payments"
 msgstr ""
 
-#: tool/template-home.html:26 tool/template-learn-uses.html:93
+#: tool/template-home.html:27 tool/template-learn-uses.html:93
 msgid "Learn More"
 msgstr ""
 
-#: tool/template-home.html:27
+#: tool/template-home.html:28
 msgid "Build with the XRP Ledger"
 msgstr ""
 
-#: tool/template-home.html:32
+#: tool/template-home.html:33
 msgid "XRP Ledger"
 msgstr ""
 
-#: tool/template-home.html:36
+#: tool/template-home.html:37
 msgid "What is XRPL.org?"
 msgstr ""
 
-#: tool/template-home.html:37
+#: tool/template-home.html:38
 msgid "A Community-Driven Resource for All Things XRP and XRP Ledger"
 msgstr ""
 
-#: tool/template-home.html:38
+#: tool/template-home.html:39
 msgid ""
 "Whether you’re a developer building on the XRP Ledger (XRPL) or just "
 "getting acquainted with blockchain and digital assets, XRPL.org is your "
@@ -565,111 +572,111 @@ msgid ""
 "things XRP."
 msgstr ""
 
-#: tool/template-home.html:48 tool/template-learn-overview.html:49
+#: tool/template-home.html:49 tool/template-learn-overview.html:49
 #: tool/template-learn-overview.html:142
 msgid "Fast"
 msgstr ""
 
-#: tool/template-home.html:52 tool/template-learn-overview.html:59
+#: tool/template-home.html:53 tool/template-learn-overview.html:59
 #: tool/template-learn-overview.html:160
 msgid "Scalable"
 msgstr ""
 
-#: tool/template-home.html:60 tool/template-learn-overview.html:54
+#: tool/template-home.html:61 tool/template-learn-overview.html:54
 #: tool/template-learn-overview.html:151
 msgid "Low-Cost"
 msgstr ""
 
-#: tool/template-home.html:64 tool/template-learn-overview.html:64
+#: tool/template-home.html:65 tool/template-learn-overview.html:64
 #: tool/template-learn-overview.html:169
 msgid "Sustainable"
 msgstr ""
 
-#: tool/template-home.html:70 tool/template-learn-overview.html:28
+#: tool/template-home.html:71 tool/template-learn-overview.html:28
 msgid "What is XRP?"
 msgstr ""
 
-#: tool/template-home.html:71
+#: tool/template-home.html:72
 msgid "A Digital Asset Built for Payments"
 msgstr ""
 
-#: tool/template-home.html:72
+#: tool/template-home.html:73
 msgid ""
 "XRP is a digital asset built for payments. It is the native digital asset"
 " on the XRP Ledger—an open-source, permissionless and decentralized "
 "blockchain technology that can settle transactions in 3-5 seconds."
 msgstr ""
 
-#: tool/template-home.html:73
+#: tool/template-home.html:74
 msgid ""
 "It is the best way to move money around the world; the fuel for our "
 "growing digital economy."
 msgstr ""
 
-#: tool/template-home.html:75
+#: tool/template-home.html:76
 msgid "Learn about XRP"
 msgstr ""
 
-#: tool/template-home.html:76 tool/template-learn-history.html:35
+#: tool/template-home.html:77 tool/template-learn-history.html:35
 msgid "XRP History"
 msgstr ""
 
-#: tool/template-home.html:83
+#: tool/template-home.html:84
 msgid "Use Cases"
 msgstr ""
 
-#: tool/template-home.html:84
+#: tool/template-home.html:85
 msgid "XRP in the Real World"
 msgstr ""
 
-#: tool/template-home.html:89
+#: tool/template-home.html:90
 msgid "Uses of XRP"
 msgstr ""
 
-#: tool/template-home.html:90
+#: tool/template-home.html:91
 msgid ""
 "XRP is helping solve previously unsolvable problems for people and "
 "industries around the world, and is one of the only digital assets with a"
 " commercial use case."
 msgstr ""
 
-#: tool/template-home.html:91 tool/template-learn-overview.html:183
+#: tool/template-home.html:92 tool/template-learn-overview.html:183
 msgid "Explore Uses"
 msgstr ""
 
-#: tool/template-home.html:94
+#: tool/template-home.html:95
 msgid "Businesses on the Ledger"
 msgstr ""
 
-#: tool/template-home.html:95
+#: tool/template-home.html:96
 msgid ""
 "From gaming to web monetization, XRP and the XRP Ledger are powering "
 "innovative new technology across the payments space."
 msgstr ""
 
-#: tool/template-home.html:96
+#: tool/template-home.html:97
 msgid "Explore Businesses"
 msgstr ""
 
-#: tool/template-home.html:99
+#: tool/template-home.html:100
 msgid "Real-World Impact"
 msgstr ""
 
-#: tool/template-home.html:100
+#: tool/template-home.html:101
 msgid ""
 "With its real-world utility and inherently green design, XRP helps ensure"
 " a more sustainable future for our planet and global economy."
 msgstr ""
 
-#: tool/template-home.html:101
+#: tool/template-home.html:102
 msgid "Explore Impact"
 msgstr ""
 
-#: tool/template-home.html:114
+#: tool/template-home.html:115
 msgid "Green by Nature"
 msgstr ""
 
-#: tool/template-home.html:115
+#: tool/template-home.html:116
 msgid ""
 "XRP was designed with sustainability in mind. Contrary to other "
 "blockchains that use proof-of-work, the XRP Ledger confirms transactions "
@@ -679,18 +686,18 @@ msgid ""
 "neutrality-by-2030/\" target=\"_blank\">carbon neutral blockchains</a>."
 msgstr ""
 
-#: tool/template-home.html:116
+#: tool/template-home.html:117
 msgid ""
 "Explore the energy consumption of XRP compared to cash, credit cards and "
 "other popular crypto with the <a href=\"carbon-calculator.html\">Green "
 "Currency Calculator</a>."
 msgstr ""
 
-#: tool/template-home.html:117
+#: tool/template-home.html:118
 msgid "Go Green"
 msgstr ""
 
-#: tool/template-home.html:118
+#: tool/template-home.html:119
 msgid "Partners in Sustainability"
 msgstr ""
 
@@ -708,12 +715,19 @@ msgid ""
 "index\">full documentation index</a>."
 msgstr ""
 
-#: tool/template-landing-docs.html:31
+#: tool/template-landing-docs.html:14
+msgid ""
+"Interested in non-fungible tokens, but concerned about their <a "
+"href=\"impact.html\">large carbon footprint</a>? Check out these proposed"
+" standards for issuing NFTs on the XRP Ledger:"
+msgstr ""
+
+#: tool/template-landing-docs.html:41
 #, python-format
 msgid "View All %(parent_name)s"
 msgstr ""
 
-#: tool/template-landing-docs.html:40
+#: tool/template-landing-docs.html:50
 msgid "Full Documentation Index"
 msgstr ""
 
@@ -776,8 +790,8 @@ msgid ""
 "The history of the XRP Ledger and its native digital asset XRP dates back"
 " to early 2011 when three developers—David Schwartz, Jed McCaleb and "
 "Arthur Britto—were fascinated with Bitcoin but observed the <a href"
-"=\"carbon-calculator.html\">waste inherent in mining</a>. They sought to "
-"create a better system for sending value (an idea outlined in a <a "
+"=\"/carbon-calculator.html\">waste inherent in mining</a>. They sought to"
+" create a better system for sending value (an idea outlined in a <a "
 "href=\"https://bitcointalk.org/index.php?topic=10193.0\" "
 "target=\"_blank\">May 2011 forum post: “Bitcoin without mining”</a>)."
 msgstr ""
@@ -786,7 +800,7 @@ msgstr ""
 msgid ""
 "Their initial observations about the high energy consumption and "
 "scalability issues that would plague Bitcoin proved prescient. (In 2019, "
-"estimates suggest <a href=\"carbon-calculator.html\">Bitcoin mining "
+"estimates suggest <a href=\"/carbon-calculator.html\">Bitcoin mining "
 "used</a> more energy than the entire country of Portugal!) Moreover, "
 "their initial read indicated that significant problems could arise if any"
 " miner obtained (or miners colluded to obtain) greater than 50&#37; of "

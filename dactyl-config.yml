@@ -78,7 +78,7 @@ targets:
         lang: en
         display_name: XRPL.org
         <<: *defaults
-        prefix: ""
+        prefix: "/"
         blurb: XRPL.org is a community-driven resource for all things XRP and the XRP Ledger—your source for technical information, reference materials and tools.
 
     -   name: ja
@@ -206,7 +206,7 @@ pages:
 
     -   name: History
         template: template-learn-history.html
-        html: history.html
+        html: history/
         parent: overview.html # "Learn"
         top_nav_level: 1
         sidebar: disabled
@@ -215,7 +215,7 @@ pages:
 
     -   name: 沿革
         template: template-learn-history.html
-        html: history.html
+        html: history/
         parent: overview.html # "Learn"
         top_nav_level: 1
         sidebar: disabled
