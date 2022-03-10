@@ -1,10 +1,13 @@
 ---
 html: list-your-exchange-on-xrp-charts.html
 parent: xrp-ledger-businesses.html
-blurb: Have your exchange and its XRP trade and order book data listed on XRP Charts.
+blurb: (DEPRECATED) Have your exchange and its XRP trade and order book data listed on XRP Charts.
 status: removed
+nav_omit: true
 ---
 # List Your Exchange on XRP Charts
+
+**Warning:** The XRP Charts website is deprecated. Visit the [XRP Ledger Explorer](https://livenet.xrpl.org/) instead. 
 
 In addition to providing data about the XRP Ledger network and its accounts and transactions, XRP Charts also provides [XRP market data](https://xrpcharts.ripple.com/#/xrp-markets) from external exchanges. This tutorial describes how to have your exchange and its XRP trade and order book data listed on XRP Charts.
 
